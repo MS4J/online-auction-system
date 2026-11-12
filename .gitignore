@@ -8,7 +8,6 @@ build/
 bin/
 
 # IDE & Editor files
-.vscode/
 .vs/
 *.sln
 *.vcxproj*
@@ -17,3 +16,5 @@ bin/
 # OS files
 .DS_Store
 Thumbs.db
+config.bat
+node_modules

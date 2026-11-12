@@ -5,15 +5,14 @@
 - **Instructor:** Said Nabi
 - **Class & Section:** BS (SE/CySec) – Batch 35 – (F-25 Intake)
 
-> **Note:** Update this README with your locked MS Teams project title and group members once registered.
+
 
 ## Group Members
 | Name | Registration # |
 |------|----------------|
-| Member 1 | YYYYXXX |
-| Member 2 | YYYYXXX |
-| Member 3 | YYYYXXX |
-| Member 4 | YYYYXXX |
+| Muhammad Sufyan | 2025629 |
+| Hammad Ahmed | 2025255 |
+| Hammad Tayyab | 2025256 |
 
 ## Project Structure
 ```text
